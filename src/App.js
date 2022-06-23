@@ -23,7 +23,7 @@ export default function App() {
   return (
     <Container>
       <HeaderContainer>
-        <Phone>Телефон: +375 25 928 7243</Phone>
+        <Phone>Телефон: +375 25 928 72 43</Phone>
 
         <MenuContainer>
           <MenuItem>

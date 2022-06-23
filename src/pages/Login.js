@@ -39,10 +39,10 @@ const Login = () => {
     }
   };
 
-  const signOut = () => {
-    localStorage.setItem("isAuth", false);
-    dispatch(setAuth(false));
-  };
+  // const signOut = () => {
+  //   localStorage.setItem("isAuth", false);
+  //   dispatch(setAuth(false));
+  // };
 
   return (
     <>
